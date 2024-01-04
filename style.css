@@ -20,6 +20,8 @@ body {
     color: #000;
     display: flex;
     flex-direction: column;
+    border-radius: 20px;
+    text-align: center;
 }
 
 #cal h3 {
